@@ -14,4 +14,4 @@ This project builds a simple Recurrent Neural Network (RNN) in PyTorch for quest
 ## Results
 - Model processes sequences for answer generation.
 - Example: Input "What is the capital of France?" → Output "Paris".
-- Due to limited data and others limitation gets error like "Who directed the movie 'Dark knight ?"  → Output "batman" 
+- Due limitations gets error like "Who directed the movie 'Dark knight ?"  → Output "batman" 
